@@ -16,7 +16,7 @@ data:
   SMTP_HOST: "smtp.example.com"
   SMTP_PORT: "587"
   EMAIL_FROM: "noreply-dev@example.com"
-  DB_HOST: pharma-dev-postgres.cyrywaguk6v4.us-east-1.rds.amazonaws.com
+  DB_HOST: pharma-dev-postgres.cedg42u8scsi.us-east-1.rds.amazonaws.com
 ---
 apiVersion: apps/v1
 kind: Deployment
